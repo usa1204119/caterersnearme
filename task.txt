@@ -1,0 +1,26 @@
+Developer Evaluation Task
+This assignment is designed to evaluate a candidate's practical skills in backend development
+(Node.js), frontend development (Next.js / React), and basic full stack integration. The task will help
+shortlist candidates before the interview.
+Task: Take Home Assignment
+Objective: Build a small catering search platform with a backend API and a frontend interface.
+Backend Requirements (Node.js)
+• Create REST APIs using Node.js and Express.
+• Create the following endpoints: GET /api/caterers, GET /api/caterers/:id, POST /api/caterers.
+• Each caterer should include: id, name, location, pricePerPlate (price per plate), cuisines
+(array), rating.
+• Data can be stored in MongoDB or a JSON file.
+• Implement basic validation for POST requests.
+Frontend Requirements (Next.js)
+• Create a page called /caterers.
+• Fetch caterers from the backend API.
+• Display caterers in card format showing name, location, price per plate, cuisines, and rating.
+• Add search functionality by caterer name.
+• Add a filter option for price per plate.
+• Ensure the UI is clean and responsive.
+Submission Requirements
+• Provide a GitHub repository containing the code.
+• Include a README file explaining setup steps.
+• Optional: Deploy the application (Frontend on Vercel, Backend on EC2 or Render).
+• After completing the assignment, email the project (GitHub link or zip file) to:
+adit.jadhav@caterersnearme.in.

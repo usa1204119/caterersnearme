@@ -1,0 +1,98 @@
+[
+  {
+    "id": "1",
+    "name": "Royal Feast Caterers",
+    "location": "Mumbai, Maharashtra",
+    "pricePerPlate": 650,
+    "cuisines": [
+      "North Indian",
+      "Mughlai",
+      "Desserts"
+    ],
+    "rating": 4.8
+  },
+  {
+    "id": "2",
+    "name": "Spice Garden Catering",
+    "location": "Delhi, NCR",
+    "pricePerPlate": 450,
+    "cuisines": [
+      "South Indian",
+      "Continental",
+      "Chinese"
+    ],
+    "rating": 4.5
+  },
+  {
+    "id": "3",
+    "name": "The Grand Palate",
+    "location": "Bangalore, Karnataka",
+    "pricePerPlate": 800,
+    "cuisines": [
+      "Multi-Cuisine",
+      "Live Counters",
+      "Desserts"
+    ],
+    "rating": 4.9
+  },
+  {
+    "id": "4",
+    "name": "Desi Tadka Events",
+    "location": "Hyderabad, Telangana",
+    "pricePerPlate": 350,
+    "cuisines": [
+      "Hyderabadi",
+      "Andhra",
+      "North Indian"
+    ],
+    "rating": 4.2
+  },
+  {
+    "id": "5",
+    "name": "Zaika Catering Services",
+    "location": "Pune, Maharashtra",
+    "pricePerPlate": 550,
+    "cuisines": [
+      "Maharashtrian",
+      "Rajasthani",
+      "Gujarati"
+    ],
+    "rating": 4.6
+  },
+  {
+    "id": "6",
+    "name": "Flavours of India",
+    "location": "Chennai, Tamil Nadu",
+    "pricePerPlate": 400,
+    "cuisines": [
+      "South Indian",
+      "Chettinad",
+      "Seafood"
+    ],
+    "rating": 4.4
+  },
+  {
+    "id": "7",
+    "name": "Platinum Bites",
+    "location": "Kolkata, West Bengal",
+    "pricePerPlate": 700,
+    "cuisines": [
+      "Bengali",
+      "Continental",
+      "Chinese"
+    ],
+    "rating": 4.7
+  },
+  {
+    "id": "8",
+    "name": "Annapurna Caterers",
+    "location": "Ahmedabad, Gujarat",
+    "pricePerPlate": 300,
+    "cuisines": [
+      "Gujarati",
+      "Jain",
+      "Rajasthani"
+    ],
+    "rating": 4.3
+  }
+]
